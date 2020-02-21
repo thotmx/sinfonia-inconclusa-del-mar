@@ -23,13 +23,13 @@ Some images used for a small puppet show about this song: https://www.youtube.co
 
 ## Origin
 
-My wife and me drew these images to build some puppets for a personal show for my son.
+My wife and I drew these images to build some puppets for a familiar show dedicated to my son.
 
-It's a little difficult to find good images for each character in the song. Then we took ideas from many sources. So we used some images from internet, we re-drew them using Inkscape and added some additional elements in order to fit with the lyrics.
+It's a little difficult to find good images for each character in the song. Then we took ideas from many sources. So we used some images from internet, we re-drew them using Inkscape and added some additional elements in order to fit them with the lyrics.
 
 ## Note
 
-The only goal for this repository is sharing. Maybe it would be helpful for somebody that want to share a good moment with his children.
+The only goal for this repository is sharing. Maybe it would be helpful for someone that want to share a good moment with their children.
 
-Even when we re-drew the images, and added some new elements. If you think that any of these images violate your copyright, I can delete it. No problem. 
+Even when we re-drew the images and added some new elements. If you think any of these images violate your copyright, I can delete it. No problem. 
 
